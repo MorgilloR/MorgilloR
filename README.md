@@ -1,6 +1,6 @@
 ## Hi, I'm Angela Rosy 👋
 
-PhD Candidate in **Physics, specializing in Quantum Information and Machine Learning** | University of Pavia
+PhD Candidate in **Physics, specializing in Quantum Information and Machine Learning** | University of Pavia  <br>
 📧 Email: angelarosy.morgillo01@universitadipavia.it
 
 🔗 Links
