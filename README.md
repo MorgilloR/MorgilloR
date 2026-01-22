@@ -1,5 +1,12 @@
-## Hi there 👋
+## Hi, I'm Angela Rosy 👋
 
+PhD Candidate in **Physics, specializing in Quantum Information and Machine Learning** | University of Pavia
+📧 Email: angelarosy.morgillo01@universitadipavia.it
+
+🔗 Links
+[LinkedIn](https://www.linkedin.com/in/angela-rosy-morgillo) | 
+[Google Scholar](https://scholar.google.com/citations?user=l1bmXOkAAAAJ&hl=it&oi=ao) | 
+[arXiv](https://arxiv.org/a/MorgilloR.html)
 <!--
 **MorgilloR/MorgilloR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
