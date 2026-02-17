@@ -7,7 +7,7 @@ PhD Candidate in **Physics, specializing in Quantum Information and Machine Lear
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white&logoWidth=12)](https://www.linkedin.com/in/angela-rosy-morgillo) 
 [![Google Scholar](https://img.shields.io/badge/-Scholar-4285F4?style=flat&logo=google-scholar&logoColor=white&logoWidth=12)](https://scholar.google.com/citations?user=l1bmXOkAAAAJ&hl=it&oi=ao)
-[![arXiv](https://img.shields.io/badge/-arXiv-B31B1B?style=flat&logo=arxiv&logoColor=white&logoWidth=12)](https://arxiv.org/a/MorgilloR.html)
+[![arXiv](https://img.shields.io/badge/-arXiv-B31B1B?style=flat&logo=arxiv&logoColor=white&logoWidth=12)]([https://arxiv.org/a/MorgilloR.html](https://arxiv.org/search/?searchtype=author&query=Morgillo%2C+Angela+Rosy))
 <!--
 **MorgilloR/MorgilloR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
